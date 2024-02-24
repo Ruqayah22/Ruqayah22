@@ -3,8 +3,18 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" height="300" >
 </div>
+<br>
+<div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/ruqayah-nawfal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ruqayah22">
+    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
     <a href="https://www.linkedin.com/in/ruqayah-nawfal">
        LinkedIn
     </a>
@@ -12,7 +22,7 @@
     <a href="https://github.com/Ruqayah22">
        GitHub
     </a>
-</div>
+</div>-->
 
 <div align="center">
     <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" height="200" >
