@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/ruqayah-nawfal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ruqayah22">
-    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
 </div>
 
 <!--<div id="header" align="center">
