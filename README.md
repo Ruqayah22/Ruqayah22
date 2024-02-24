@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QaMhVZVwOvDiw/giphy.gif" height="300" >
+    <img src="https://media.giphy.com/media/ejDpeGxuGjHSvyJuz0/giphy.gif" height="200"  >
 </div>
 <br>
 <div id="badges" align="center" >
@@ -10,36 +10,25 @@
   </a>
 </div>
 
-<!--<div id="header" align="center">
-    <a href="https://www.linkedin.com/in/ruqayah-nawfal">
-       LinkedIn
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Ruqayah22">
-       GitHub
-    </a>
-</div>-->
-
 <div align="center">
-    <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" height="200" >
+    <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" height="200" width="300">
 </div>
 
 ---
 ### :woman_technologist: About Me :
-<!--
+
 **Ruqayah22/Ruqayah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: I’m working as a full developer and Data entry at startups bus platform.
+  
+- :seedling: I like reading books and sometimes I Writing Thoughts.
+
+- 🏓 In my free time, I draw, I play Ping pong. 
+
+- ⚡ Fun fact: I love learning, I learn anything that interests me
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -49,8 +38,9 @@ Here are some ideas to get you started:
     src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img 
     src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img 
     src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img 
-    src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="100"><img src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif" width="100"><img src="" 
-    width="100"><img src="" width="100">
+    src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="100"><img src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif" width="100"><img         
+    src="https://media.giphy.com/media/ZAxMz67MMR0NiNneq1/giphy.gif" width="100"><img src="https://media.giphy.com/media/upzyp6XVJzmMWat2fW/giphy.gif" width="100"><img 
+    src="https://media.giphy.com/media/EK2mrZl48ZwYFMgv04/giphy.gif" width="100">
   </p>
 </div>
 
